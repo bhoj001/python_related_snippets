@@ -1,0 +1,21 @@
+{
+  "args": {}, 
+  "data": "", 
+  "files": {}, 
+  "form": {
+    "name1": "value1", 
+    "name2": "value2"
+  }, 
+  "headers": {
+    "Accept-Encoding": "identity", 
+    "Content-Length": "25", 
+    "Content-Type": "application/x-www-form-urlencoded", 
+    "Host": "httpbin.org", 
+    "Spam": "Eggs", 
+    "User-Agent": "none/ofyourbusiness", 
+    "X-Amzn-Trace-Id": "Root=1-5f1ac7d8-fc81015860bee53097d730a8"
+  }, 
+  "json": null, 
+  "origin": "103.235.196.210", 
+  "url": "https://httpbin.org/post"
+}
